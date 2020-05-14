@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Amiibo List</string>
+    <string name="field_character">Character: %s</string>
+    <string name="field_game_series">Game Series: %s</string>
+    <string name="field_amiibo_series">Amiibo Series: %s</string>
+</resources>
